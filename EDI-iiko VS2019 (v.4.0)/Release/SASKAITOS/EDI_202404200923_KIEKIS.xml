@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+	<Supplier>
+		<SupplierReferences>
+			<BuyersCodeForSupplier>300090278</BuyersCodeForSupplier>
+		</SupplierReferences>
+	</Supplier>
+	<InvoiceDate>2024.03.28</InvoiceDate>
+	<dueDate>2024.05.12</dueDate>
+	<InvoiceReferences>
+		<BuyersOrderNumber>PRIK622959</BuyersOrderNumber>
+		<DeliveryLocationNumber>183</DeliveryLocationNumber>
+	</InvoiceReferences>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>11111111</SuppliersProductCode>
+			<Description>Guinness 30l 4.2%</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>16.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>125.7000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>422.3520</TaxValue>
+		</LineTax>
+		<LineTotal>2011.2000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>222</SuppliersProductCode>
+			<Description>Užstatinė tara GUI 30L</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>16.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>90.0000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>1440.0000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8423360010052</SuppliersProductCode>
+			<Description>F.de Castilla Solera Res.Brandy de Jerez 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>12.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>21.0700</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>53.0964</TaxValue>
+		</LineTax>
+		<LineTotal>252.8400</LineTotal>
+	</InvoiceLine>
+
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5901041003003</SuppliersProductCode>
+			<Description>Belvedere Pure Vodka 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>6.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>41.9300</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>52.8318</TaxValue>
+		</LineTax>
+		<LineTotal>251.5800</LineTotal>
+	</InvoiceLine>
+
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5410316994019</SuppliersProductCode>
+			<Description>Smirnoff Red 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>108.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>19.8000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>449.0640</TaxValue>
+		</LineTax>
+		<LineTotal>2138.4000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5000289925440</SuppliersProductCode>
+			<Description>Gordons 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>72.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>18.5100</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>279.8712</TaxValue>
+		</LineTax>
+		<LineTotal>1332.7200</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5000289929417</SuppliersProductCode>
+			<Description>Gordons Pink 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>72.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>19.6600</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>297.2592</TaxValue>
+		</LineTax>
+		<LineTotal>1415.5200</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5000281015248</SuppliersProductCode>
+			<Description>Tanqueray Gin 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>6.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>26.2000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>33.0120</TaxValue>
+		</LineTax>
+		<LineTotal>157.2000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5011013100156</SuppliersProductCode>
+			<Description>Baileys Irish Cream 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>12.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>21.3500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>53.8020</TaxValue>
+		</LineTax>
+		<LineTotal>256.2000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8001110016341</SuppliersProductCode>
+			<Description>Amaretto Disaronno 100cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>12.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>32.5200</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>81.9504</TaxValue>
+		</LineTax>
+		<LineTotal>390.2400</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8000353005112</SuppliersProductCode>
+			<Description>Luxardo Triple Sec OrangeDry 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>21.7700</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>658.3248</TaxValue>
+		</LineTax>
+		<LineTotal>3134.8800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5060671000575</SuppliersProductCode>
+			<Description>Three Cents Pineapple Soda 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.0900</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>32.9616</TaxValue>
+		</LineTax>
+		<LineTotal>156.9600</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484564</SuppliersProductCode>
+			<Description>Depozitas Stiklas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>14.4000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5060671000087</SuppliersProductCode>
+			<Description>Three Cents Tonic Water200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>618.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.0900</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>141.4602</TaxValue>
+		</LineTax>
+		<LineTotal>673.6200</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484564</SuppliersProductCode>
+			<Description>Depozitas Stiklas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>618.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>61.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>3300300630028</SuppliersProductCode>
+			<Description>Salasar Carte Azur Brut75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>76.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>12.6400</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>201.7344</TaxValue>
+		</LineTax>
+		<LineTotal>960.6400</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8002235835053</SuppliersProductCode>
+			<Description>Zonin Pros.Cuvee 1821 75cl LEONE</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>76.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>10.1500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>161.9940</TaxValue>
+		</LineTax>
+		<LineTotal>771.4000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5000299223055</SuppliersProductCode>
+			<Description>Captain Morgan Spiced 100cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>72.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>25.0500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>378.7560</TaxValue>
+		</LineTax>
+		<LineTotal>1803.6000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8500000917008</SuppliersProductCode>
+			<Description>Ron Santiago de Cuba Carta Blanca 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>23.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>18.5100</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>89.4033</TaxValue>
+		</LineTax>
+		<LineTotal>425.7300</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4770569914143</SuppliersProductCode>
+			<Description>Pago orange 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.2600</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>44.4528</TaxValue>
+		</LineTax>
+		<LineTotal>211.6800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484580</SuppliersProductCode>
+			<Description>Depozitas kitas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>16.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4770569914150</SuppliersProductCode>
+			<Description>Pago apple 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>217.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.1200</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>51.0384</TaxValue>
+		</LineTax>
+		<LineTotal>243.0400</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484580</SuppliersProductCode>
+			<Description>Depozitas kitas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>217.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>21.7000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4770569914181</SuppliersProductCode>
+			<Description>Pago tomato 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>84.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.1200</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>19.7568</TaxValue>
+		</LineTax>
+		<LineTotal>94.0800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484580</SuppliersProductCode>
+			<Description>Depozitas kitas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>84.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>8.4000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4770569914174</SuppliersProductCode>
+			<Description>Pago multifruit 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.1200</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>39.5136</TaxValue>
+		</LineTax>
+		<LineTotal>188.1600</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484580</SuppliersProductCode>
+			<Description>Depozitas kitas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>16.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4770569914167</SuppliersProductCode>
+			<Description>Pago pineapple 200ml</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1.1200</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>39.5136</TaxValue>
+		</LineTax>
+		<LineTotal>188.1600</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>2090000484580</SuppliersProductCode>
+			<Description>Depozitas kitas</Description>
+		</Product>
+		<Quantity UOMCode="vnt">
+			<Amount>168.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>0.1000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>0.0000</TaxValue>
+		</LineTax>
+		<LineTotal>16.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>7501035012219</SuppliersProductCode>
+			<Description>Jose Cuervo Trad.Reposado70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>27.9500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>845.2080</TaxValue>
+		</LineTax>
+		<LineTotal>4024.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>7501035012233</SuppliersProductCode>
+			<Description>Jose Cuervo Trad.Silver70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>27.9500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>845.2080</TaxValue>
+		</LineTax>
+		<LineTotal>4024.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8000353003613</SuppliersProductCode>
+			<Description>Luxardo Aperitivo 100cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>144.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>13.4500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>406.7280</TaxValue>
+		</LineTax>
+		<LineTotal>1936.8000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8000353300019</SuppliersProductCode>
+			<Description>Luxardo Bitter Rosso 70cl25%</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>6.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>17.9100</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>22.5666</TaxValue>
+		</LineTax>
+		<LineTotal>107.4600</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>0810035510104</SuppliersProductCode>
+			<Description>Shanky's Whip Black IrishWhiskey Liqueur 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>8.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>22.4700</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>37.7496</TaxValue>
+		</LineTax>
+		<LineTotal>179.7600</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>0082000789611</SuppliersProductCode>
+			<Description>Bulleit Bourbon 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>18.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>38.4900</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>145.4922</TaxValue>
+		</LineTax>
+		<LineTotal>692.8200</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5055966800022</SuppliersProductCode>
+			<Description>Bushmills Original 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>18.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>21.8100</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>82.4418</TaxValue>
+		</LineTax>
+		<LineTotal>392.5800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>5000267014203</SuppliersProductCode>
+			<Description>J.W.Red Label 70cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>18.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>19.6600</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>74.3148</TaxValue>
+		</LineTax>
+		<LineTotal>353.8800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>7804304104722</SuppliersProductCode>
+			<Description>Errazuriz Estate Char75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>48.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>10.3900</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>104.7312</TaxValue>
+		</LineTax>
+		<LineTotal>498.7200</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>4044551038491</SuppliersProductCode>
+			<Description>J.Bihn Ries.Mosel 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>60.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>8.0700</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>101.6820</TaxValue>
+		</LineTax>
+		<LineTotal>484.2000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8000160611179</SuppliersProductCode>
+			<Description>Lamberti Pinot Grigio75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>60.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>9.3400</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>117.6840</TaxValue>
+		</LineTax>
+		<LineTotal>560.4000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>3525490017279</SuppliersProductCode>
+			<Description>Les Jam.Sauv.Blanc 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>45.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1025.0000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>9686.2500</TaxValue>
+		</LineTax>
+		<LineTotal>46125.0000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>8002235001014</SuppliersProductCode>
+			<Description>Masseria Altem.Sasseo Prim.Sal.IGT 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>18.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>14.2500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>53.8650</TaxValue>
+		</LineTax>
+		<LineTotal>256.5000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>7808725401606</SuppliersProductCode>
+			<Description>Ventisquero Res.Pinot Noir 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>48.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>9.4100</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>94.8528</TaxValue>
+		</LineTax>
+		<LineTotal>451.6800</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>3035131115832</SuppliersProductCode>
+			<Description>B&amp;G Cotes de Provence Rose Passep. 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>36.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>1334.0000</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>10085.0400</TaxValue>
+		</LineTax>
+		<LineTotal>48024.0000</LineTotal>
+	</InvoiceLine>
+	<InvoiceLine>
+		<Product>
+			<SuppliersProductCode>3185370000335</SuppliersProductCode>
+			<Description>Moet Brut Imperial 75cl</Description>
+		</Product>
+		<Quantity UOMCode="but">
+			<Amount>6.000</Amount>
+		</Quantity>
+		<Price>
+			<UnitPrice>44.9500</UnitPrice>
+		</Price>
+		<PercentDiscount>
+			<Percentage>0</Percentage>
+		</PercentDiscount>
+		<LineTax>
+			<TaxValue>56.6370</TaxValue>
+		</LineTax>
+		<LineTotal>269.7000</LineTotal>
+	</InvoiceLine>
+</Invoice>
